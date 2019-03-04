@@ -7,8 +7,8 @@ To upload files we will use some commands like:
 1)ls--to lsit availble files
 2)cd-- for the path // cd "path of the folder in inverted commas"
 3)git init// wil creat .git folder
-4)git remorte add origin <gitLink>// add your git repository link in inverted commas
-5)git remort -v
+4)git remote add origin <gitLink>// add your git repository link in inverted commas
+5)git remote -v
 6)git add . //(by writing . it  will add all the present files there in the folder...for perticular one file write file name insted)
 7)git commit -m "First commit"  //(here if you are doing for the first time it will ask you "Who are you?" ...it will ask for your git hub mail and username....to do so...
 Run git config --global user.email "you@example.com"
